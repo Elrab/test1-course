@@ -7,4 +7,4 @@ git add index.html	SINGLE ADD
 git status
 git rm --cached index.html   REMOVE
 git add .     ADDS ALL IN FOLDER
-git commit
+git commit            INITIAL COMMIT 
