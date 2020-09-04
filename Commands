@@ -3,7 +3,8 @@ touch app.js
 git init
 git config --global user.name 'Tomo Barle'
 git config --global user.email 'tomo.barle@gmail.com'
-git add index.html
+git add index.html	SINGLE ADD
 git status
 git rm --cached index.html   REMOVE
 git add .     ADDS ALL IN FOLDER
+git commit
